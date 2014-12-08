@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/dgelong/monad/issues"
   },
-  "homepage": "https://github.com/dgelong/monad"
+  "homepage": "https://github.com/dgelong/monad",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jasmine": "^1.0.1"
+  }
 }
